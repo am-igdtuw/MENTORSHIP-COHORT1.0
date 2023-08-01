@@ -3,17 +3,17 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 
 |---------------------|-------------------|--------------------|----------------------|
 |Module               |Task               |Deadline            |Progress Check        |
-|---------------------|-------------------|--------------------|----------------------|
+
 |Js Revision Classes  |Team distribution  |12th Aug - 13th Aug | 14th Aug             |
-|---------------------|-------------------|--------------------|----------------------|
+
 |  Introduction to web3 Session : 16th Aug                                            |
 | (Help students think of ideas and apps related to web3)                             |
-|---------------------|-------------------|--------------------|----------------------|
+
 |Ideathon             |Offline Comptt for | 19th Aug           |                      |
 |                     | Project Proposals |                    |                      |
-|---------------------|-------------------|--------------------|----------------------|
-|Frontend dev Classes                     |22nd Aug - 31st Aug |                      |
-|---------------------|-------------------|--------------------|----------------------|
+
+|Frontend dev Classes |                   |22nd Aug - 31st Aug |                      |
+
 |                     |                   |22nd Aug            | 23rd Aug             |
 |---------------------|-------------------|--------------------|----------------------|
 |                     |                   |24th Aug            | 25th Aug             |
@@ -26,7 +26,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |                     |Doubt Session      |31st Aug            | 1st Sept             |
 |---------------------|-------------------|--------------------|----------------------|
-|Backend dev Classes                      |2nd Sept - 10th Sept|                      |
+|Backend dev Classes  |                   |2nd Sept - 10th Sept|                      |
 |---------------------|-------------------|--------------------|----------------------|
 |                     |                   |2nd Sept            |                      |
 |---------------------|-------------------|--------------------|----------------------|
