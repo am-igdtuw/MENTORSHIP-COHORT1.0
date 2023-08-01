@@ -3,17 +3,17 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 
 |---------------------|-------------------|--------------------|----------------------|
 |Module               |Task               |Deadline            |Progress Check        |
-
+|---------------------|-------------------|--------------------|----------------------|
 |Js Revision Classes  |Team distribution  |12th Aug - 13th Aug | 14th Aug             |
-
+|---------------------|-------------------|--------------------|----------------------|
 |  Introduction to web3 Session : 16th Aug                                            |
 | (Help students think of ideas and apps related to web3)                             |
-
+|---------------------|-------------------|--------------------|----------------------|
 |Ideathon             |Offline Comptt for | 19th Aug           |                      |
 |                     | Project Proposals |                    |                      |
-
+|---------------------|-------------------|--------------------|----------------------|
 |Frontend dev Classes |                   |22nd Aug - 31st Aug |                      |
-
+|---------------------|-------------------|--------------------|----------------------|
 |                     |                   |22nd Aug            | 23rd Aug             |
 |---------------------|-------------------|--------------------|----------------------|
 |                     |                   |24th Aug            | 25th Aug             |
@@ -47,7 +47,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |       Alchemy Bootcamp Starts           |                    |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|         Blockchain cryptography         |16th Sept- 19th Sept| Daily                |
+| ockchain cryptography|                  |16th Sept- 19th Sept| Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |The First Primitive  |Cryptograph hashes |16th Sept           |                      |
 |---------------------|-------------------|--------------------|----------------------|
@@ -61,7 +61,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |          19 September, Tuesday, Session/Class                |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|         Blockchain storage              |20th Sept- 23rd Sept| Daily                |
+|   Blockchain storage|                   |20th Sept- 23rd Sept| Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |Blockchain user state| Code UTXO model   |20th Sept           |                      |
 |---------------------|-------------------|--------------------|----------------------|
@@ -74,7 +74,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |          23rd September, Tuesday, Session/Class              |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|             Ethereum                    |24th Sept- 27th Sept| Daily                |
+|             Ethereum|                   |24th Sept- 27th Sept| Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |Features             | Transactions Game |24th Sept           |                      |
 |---------------------|-------------------|--------------------|----------------------|
@@ -89,7 +89,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |        27th September, Wednesday, Session/Class              |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|    Smart contract basics                |24th Sept- 27th Sept| Daily                |
+|Smart contract basics|                   |24th Sept- 27th Sept| Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |Solidity syntax      | Data types        |28th Sept           |                      |
 |---------------------|-------------------|--------------------|----------------------|
@@ -107,7 +107,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |          1 October, Sunday, Session/Class                    |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|             Solidity                    |24th Sept- 27th Sept| Daily                |
+|             Solidity|                   |24th Sept- 27th Sept| Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |Mapping              | Transactions Game |24th Sept           |                      |
 |---------------------|-------------------|--------------------|----------------------|
@@ -119,7 +119,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |      WEEK 5 ASSIGNMENT                  |5th Oct             |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|    Solidity core                        |6th Oct - 9th Oct   | Daily                |
+|    Solidity core    |                   |6th Oct - 9th Oct   | Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |Solidity challenges  | Party split       |                    |                      |
 |                     |Dead man’s switch  |                    |                      |
@@ -137,7 +137,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |          9th October, Monday, Session/Class                  |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|     Solidity governance                 |10th Oct - 13th Oct | Daily                |
+|  Solidity governance|                   |10th Oct - 13th Oct | Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |Proxy contracts      |                   |10th Oct            |                      |
 |---------------------|-------------------|--------------------|----------------------|
@@ -151,7 +151,7 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 |---------------------|-------------------|--------------------|----------------------|
 |         13th October,Friday, Session/Class                   |                      |
 |---------------------|-------------------|--------------------|----------------------|
-| Dapp Development                        |14th Oct - 20th Oct | Daily                |
+| Dapp Development    |                    |14th Oct - 20th Oct | Daily                |
 |---------------------|-------------------|--------------------|----------------------|
 |Team Project         |                   |                    |                      |
 |Submission           |                   |30th Oct            |                      |
