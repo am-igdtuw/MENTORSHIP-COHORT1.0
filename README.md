@@ -1,7 +1,7 @@
 # MENTORSHIP-COHORT1.0
 A 2-month Zero to Advanced web3 cohort is being offered in association with Web3Samaj in the month of august, empowering 60+ students in the fields of web3 and blockchain technology. Throughout the course, participants will engage in theory sessions, stimulate web3-based ideation, and work on inspiring group projects. The mentorship concludes with certificates and NFT’s recognizing the dedication and skills of the participants. We look forward to the participants embarking on a journey that will undoubtedly shape their futures
 
-!(Js Assignment)[https://docs.google.com/document/d/1JL7ImcyFBClmGZPSWtV-85Qi2DzTrLT-Mk1RfX_0eLc/edit] 
+![https://docs.google.com/document/d/1JL7ImcyFBClmGZPSWtV-85Qi2DzTrLT-Mk1RfX_0eLc/edit](Js Assignment)
 
 TIMELINE FOR COHORT
 
