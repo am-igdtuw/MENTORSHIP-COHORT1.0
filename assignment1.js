@@ -1,4 +1,4 @@
-const library = [
+const lib = [
     {
       title: "The Great Gatsby",
       author: "F. Scott Fitzgerald",
@@ -74,16 +74,16 @@ const library = [
   console.log(getAuthorsAndBooks(lib));
   // Write a function getTotalPagesByAuthor that returns an object where the keys are author names and the values are the total number of pages of books written by each author.
 
-  const getTotalPagesByAuthor=(lib) =>{
-    return library.reduce((totalPagesByAuthor, book) => {
-      if (!totalPagesByAuthor[book.author]) {
-        totalPagesByAuthor[book.author] = 0;
+  const getTotPagesByAuthor=(lib) =>{
+    return lib.reduce((totPagesByAuthor, book) => {
+      if (!totPagesByAuthor[book.author]) {
+        totPagesByAuthor[book.author] = 0;
       }
-      totalPagesByAuthor[book.author] += book.pages;
-      return totalPagesByAuthor;
+      totPagesByAuthor[book.author] += book.pages;
+      return totPagesByAuthor;
     }, {});
   }
-  console.log(getTotalPagesByAuthor(lib));
+  console.log(getTotPagesByAuthor(lib));
   
   //Write a function getShortestBookByAuthor that returns an object where the keys are author names and the values are the titles of the shortest book written by each author.
   const getShortestBookByAuthor=(lib)=> {
