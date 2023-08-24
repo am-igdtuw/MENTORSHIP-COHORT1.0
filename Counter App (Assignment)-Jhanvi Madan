@@ -1,0 +1,70 @@
+<!--https://drive.google.com/drive/folders/12eayeBMhLhI9MccVbynD-O-BdWx3kWU8?usp=drive_link -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Counter App</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: green;
+            font-family: 'Segoe print', monospace;
+        }
+
+        .container {
+            text-align: center;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: red;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        button:hover {
+            background-color: darkred;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Digitflow</h1>
+        <p>Count: <span id="count">0</span></p>
+        <button id="updateButton">+ Update Count</button>
+        <button id="resetButton">Reset Count</button>
+    </div>
+
+    <script>
+        const countElement = document.getElementById('count');
+        const updateButton = document.getElementById('updateButton');
+        const resetButton = document.getElementById('resetButton');
+
+        let count = 0;
+
+        function updateCount() {
+            count++;
+            countElement.textContent = count;
+        }
+
+        function resetCount() {
+            count = 0;
+            countElement.textContent = count;
+        }
+
+        updateButton.addEventListener('click', updateCount);
+        resetButton.addEventListener('click', resetCount);
+    </script>
+</body>
+</html>
