@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang = "en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width=device-width,intial-scale=1">
+        <title>Create a counter using HTML and JS. Page will show a count which will be updated whenever user clicks on the update count button.</title>
+    </head>
+    <body>
+        <p>
+            <h1><center>Counter</center></h1>
+            <center><button onclick = "totalClick(1)">+</button></center>
+            <center><span id = "totalClicks">0</span></center>
+            <center><button onclick = "totalClick(-1)">-</button></center>
+        </p>
+        <center><button onclick = "totalClick(0)">Reset</button></center>
+        <script>
+            function totalClick(click){
+                const TotalClicks = document.getElementById('totalClicks');
+                const sumvalue = parseInt(TotalClicks.innerText)+click;
+                console.log(sumvalue+click);
+                TotalClicks.innerText = sumvalue;
+
+                if(sumvalue < 0){
+                    TotalClicks.innerText=0;
+                }
+                if(click===0){
+                    TotalClicks.innerText=0;
+                }
+            }
+        </script>
+    </body>
+</html>
