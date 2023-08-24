@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <title>Counter App</title>
+    <script>
+        // Initialize the counter value
+        var count = 0;
+
+        // Function to update the counter and display
+        function updateCounter() {
+            count++;
+            document.getElementById("countDisplay").innerText = count;
+        }
+    </script>
+</head>
+<body>
+    <h1>Counter App</h1>
+    <p>Count: <span id="countDisplay">0</span></p>
+    <button onclick="updateCounter()">Update Count</button>
+</body>
+</html>
+<html>
