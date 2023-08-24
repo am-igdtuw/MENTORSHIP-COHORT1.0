@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Increment</title>
+</head>
+<style>
+ body{
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+    background-color: rgb(44, 44, 44);
+ }
+
+#full{
+  text-align: center;
+    
+}
+
+ h1{
+    font-size: 80px;
+}
+
+#inc{
+   
+    text-align: center;
+    height: 100px;
+   background: rgb(128, 127, 127);
+    font-size: 80px;
+    color: yellow;
+    border: 2px dashed yellow;
+    margin-bottom: 25px;
+}
+
+#button{
+    font-size: 50px;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: wavy;
+    background-color:rgb(75, 75, 0);
+    color: yellow;
+}
+</style>
+<body>
+
+    <div id="full" >
+    <h1>INCREMENT</h1>
+
+    <div id="inc">
+
+    </div>
+    
+    <button id="button">CLICK + 1</button>
+   <!-- <button onclick='increment()'>CLICK - 1</button> --> 
+</div>
+    <script>
+        let a = document.getElementById('inc');
+        let but = document.getElementById('button');
+       
+       var count = 0;
+        function increment(){
+           // let a = document.getElementbyID("num");
+           count++ 
+          
+               document.getElementById('inc').innerHTML = count;
+        }
+       // const inccounter = document.getElementById('num')
+        but.addEventListener("click", increment);
+       
+    </script>
+</body>
+</html>
