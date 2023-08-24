@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(149, 133, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    border:4px solid rgb(240, 64, 202);
+    width:60%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 30rem;
+    height: 5rem;
+    font-size: 4rem;
+    background-image: linear-gradient(to right ,rgb(71, 7, 71),rgb(247, 71, 188), rgb(229, 149, 236));
+}
+.container{
+    border: 2rem solid rgb(240, 64, 202);
+    width: 35%;
+    height: 40vh;
+    margin: auto;
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+#count{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+}
