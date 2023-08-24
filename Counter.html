@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<p>You pressed click <span id="counter">0</span> of times </p>
+    <button id="click">Click</button>
+	<script>
+		let count = 0;
+		let click = document.getElementById("click");
+		let counter = document.getElementById("counter");
+		
+		click.onclick = function () {
+					count++;
+		counter.innerHTML = count;
+		}
+	</script>
+</body>
+</html>
