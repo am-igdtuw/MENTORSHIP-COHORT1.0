@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.clickme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2vh;
+    width: 100vw;
+    height: 100vh;
+
+}
+ button {
+    font-size: 2rem;
+    background-color: rgb(83, 125, 125);
+    text-decoration: none;
+    border: none;
+    height: 6vh;
+    z-index: 4;
+    border-radius: 22px;
+    text-align: center;
+    text-transform: capitalize;
+     margin: 2vh;
+    padding: 1vh;
+}
+
+.clickme button span{
+    width: 0%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    z-index: -1;
+    transition: 0.5s;
+
+}
+.clickme button:hover span{
+    background-color: rgb(83, 125, 125);
+    width: 100%;
+}
+
+
+.count{
+    font-family: 'Water Brush', cursive;
+    width: 10vw ;
+    font-size: 5rem;
+    text-align: center;
+    height: 12vh;
+    z-index: 14;
+}
+
+
+.tutorial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.codecontainer{
+    display: flex;
+    width: 100vw;
+    border: 2px solid black;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+    background-color: rgb(2, 4, 4);
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.codecontainer .code{
+    border: 2px solid white;
+    background-color: orange;
+    width: 30%;
+    height: 100%;
+}
