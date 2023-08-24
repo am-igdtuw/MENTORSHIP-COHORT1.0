@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Counter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    #counter-container {
+      margin-top: 50px;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+      display: inline-block;
+    }
+
+    #count {
+      font-size: 24px;
+      color: #555;
+    }
+
+    #updateButton {
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Counter</h1>
+
+<p>Count: <span id="count">0</span></p>
+
+<button id="updateButton">Update Count</button>
+
+<script>
+  const countElement = document.getElementById("count");
+  const updateButton = document.getElementById("updateButton");
+  let count = 0;
+
+  updateButton.addEventListener("click", () => {
+    count++;
+    countElement.textContent = count;
+  });
+</script>
+
+</body>
+</html>
