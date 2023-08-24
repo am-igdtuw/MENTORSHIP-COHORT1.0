@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment2</title>
+    <style>
+        body {
+            margin-top: 300px;
+            text-align: center;
+        }
+        #count {
+            font-size: 36px;
+            margin: 20px;
+            color:hotpink;
+        }
+        #incrementButton {
+            padding: 10px 20px;
+            font-size: 24px;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        h1{
+             color: darkblue;
+          }
+          h2{
+             color: slateblue;
+        }
+    </style>
+</head>
+<body>
+     <h1> Task 1 </h1>
+    <h2>The count is</h2>
+    <div id="count">0</div>
+    <button id="incrementButton">+1</button>
+    <script>
+        const countElement = document.getElementById('count');
+        const incrementButton = document.getElementById('incrementButton');
+
+        let count = 0;
+        function updateCount() {
+            count++;
+            countElement.textContent = count;
+        }
+        incrementButton.addEventListener('click', updateCount);
+    </script>
+</body>
+</html>
