@@ -1,0 +1,22 @@
+// Task1: Create a counter using HTML and JS, the page will show a count and that count will be updated whenever user clicks on the update count button.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Click Counter</title>
+</head>
+<body>
+    <p>Click the button to increase the count:</p>
+    <button id="clickButton">Click me!</button>
+    <p>Count: <span id="clickCount">0</span></p>
+    <script>
+        const button = document.getElementById("clickButton");
+        const counter = document.getElementById("clickCount");
+        let count = 0;
+        button.addEventListener("click", () => {
+           count++; 
+            counter.textContent = count; 
+        });
+    </script>
+</body>
+</html>
