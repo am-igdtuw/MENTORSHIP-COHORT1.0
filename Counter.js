@@ -4,6 +4,7 @@ function Counter() {
     const [count, setCount] = useState(0);
 
     return (
+        <>
         <div className="container">
             <h1>Let's count..</h1>
             <h3>Count: {count}</h3>
@@ -13,6 +14,8 @@ function Counter() {
             </div>
             
         </div>
+        
+        </>
     );
 }
 
