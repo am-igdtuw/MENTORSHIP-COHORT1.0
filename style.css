@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+
+}
+.navbar {
+    height: 100px;
+    background-color:#000000;
+    color:white;
+    display: flex;
+
+}
+.nav-logo {
+    height:100 px;
+    width :100px;
+
+}
+.nav-text{
+    font-size: 1rem;
+    align-items: center;
+    display: flex;
+    align-items: center; /* Vertically center align items */
+    justify-content: space-between; /* Distribute items along the horizontal axis */
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+.logo {
+    background-image:url("https://assets.coingecko.com/coins/images/25181/large/thumbnail.png?1658821784");
+    background-size:contain;
+    background-repeat;
+    height: 100px;
+    width: 100px;
+
+}
+
+.hero-section {
+    background-image: url("https://i.pinimg.com/originals/33/21/50/332150b1791d9f36ec7f1ea17cb7c960.jpg");
+    background-size: cover;
+    height:350px;
+    
+}
+.shop-section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: burlywood;
+
+}
+.box{
+    border: 2px solid black;
+    height: 380px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+}
+.box-image {
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box-content {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1rem;
+    margin-: 1rem;
+
+
+}
