@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(208, 229, 238);
+}
+/* rgb(208, 229, 238) */
+h1{
+  color: rgb(255, 129, 150);
+  text-shadow: 2px 2px 0px rgb(249, 211, 211);
+  background-color:rgb(133, 228, 243);
+  height: 50px;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px; 
+  justify-items: center; 
+}
+
+.image-item {
+  margin: 5px;
+}
