@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Instagram-like Feed</title>
+</head>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f8f8f8;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-family:'Bradley hand ITC', monospace;
+    font-weight: bolder;
+    color: #333;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.post {
+    position: relative;
+    width: calc(33.33% - 10px);
+    height: 650px; /* Fixed height to maintain aspect ratio */
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.post img {
+    width: 90%;
+    height: 60%;
+    object-fit: cover;
+    display: block;
+    object-position: 50% 50%;
+    padding: 10px;
+}
+
+.caption {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #555;
+}
+
+.comments {
+    margin-top: 10px;
+}
+
+.comment {
+    text-indent: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+p {
+  color: navy;
+  text-indent: 10px;
+  font-family:'Arial',
+}
+
+h3{
+    font-family:'Arial';
+    text-indent: 10px;
+    color: navy;
+}
+</style>
+<body>
+    <header>
+        <div class="logo">Instagram</div>
+    </header>
+    <main>
+        <div class="post">
+            <h3>Prathmesh</h3>
+            <img src="http://4.bp.blogspot.com/-jYgN9-H-sEw/T1_TAw9AFxI/AAAAAAAAEys/oAgeo1yde1w/s1600/High_Definition_Wallpaper_063.jpg" alt="Post 1">
+            <p class="caption">Prathmesh Beautiful sunset 🌅</p>
+            <div class="comments">
+                <p>View all 20 comments</p>
+                <div class="comment">Sukriti: Gorgeous view!</div>
+                <div class="comment">Rohan: Wish I were there...</div>
+            </div>
+        </div>
+        <div class="post">
+            <h3>Kartik</h3>
+            <img src="https://tse4.explicit.bing.net/th?id=OIP.Xe3VVE_u1QZEHhxMrYy6bQHaFT&pid=Api&P=0&h=180" alt="Post 2">
+            <p class="caption">Kartik Exploring new places 🗺️</p>
+            <div class="comments">
+                <p>View all 20 comments</p>
+                <div class="comment">Kriti: Incredible adventure!</div>
+                <div class="comment">Ananya: Love the scenery!</div>
+            </div>
+        </div>
+        <div class="post">
+            <h3>Jhanvi</h3>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPK-1RBCHoxDD9IoxSpL3Gv97iQT33zq4nK9AaIUiPkJZfuqpl0fMZAWNoYOLzJXO0QbM&usqp=CAU alt="Post 3">
+            <p class="caption">Jhanvi Having a beary good time with my fuzzy friend 🐻❤️ #TeddyLove 🗺️</p>
+            <div class="comments">
+                <p>View all 20 comments</p>
+                <div class="comment">Bhumi: So cute!</div>
+                <div class="comment">Mannat: This is so adorable</div>
+                <div class="comment">Yashvi: Childhood memories 🥰</div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
