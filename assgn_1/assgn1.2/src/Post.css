@@ -9,7 +9,9 @@
   
   .username {
     font-weight: bold;
+    font-size:xx-large;
     text-align: center;
+    color: rgb(47, 2, 79);
   }
   
   img {
@@ -24,22 +26,13 @@
     text-align: center;
   }
 
-  body{
-    background-color: rgb(230, 216, 244);
-  }
-  
-  h1{
-    color: rgb(47, 2, 79);
-  }
-
-
 h2{
   color: rgb(109, 17, 174);
 }
 
 p{
   color: rgb(47, 2, 79);
-  font-weight: bolder;
+  /* font-weight: bolder; */
 }
 
 ul{
