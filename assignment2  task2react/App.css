@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Water+Brush&display=swap");
+
+* {
+  font-family: "Water Brush", cursive;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(233, 97, 142);
+  font-size: 3rem;
+}
+#root {
+  border: 2px solid rgb(206, 203, 162);
+  padding: 2vh;
+  height: 20vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  background-color: palegoldenrod;
+  align-items: center;
+  font-weight: bold;
+}
+
+.App > span {
+  margin: 2.4vh;
+}
+
+.App button {
+  padding: 0 1.5vh;
+  font-weight: bolder;
+  font-size: 3.6vh;
+  margin: 0 1vh;
+  margin-bottom: 1vh;
+  border: 2px solid black;
+}
