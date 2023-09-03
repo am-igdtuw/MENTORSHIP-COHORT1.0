@@ -1,0 +1,26 @@
+//App.js
+import React, {use State } from 'react';
+import './App.css';
+function App() {
+  const [value,SetCount]=useState(0);
+  const increase = () =>{(SetCount(value + 1);};
+  const decrease = () =>{(SetCount(value - 1);};
+};
+return (
+  <div style = {{background : 'lightblue'}}>
+  <div className='App_container'>
+    <h1> COUNTER </h1>
+    <h2 className ='App_count'> {value} </h2>
+    <button className='App_button1' onClick={increase} + </button>
+    <button className='App_button2' onClick={decrease} - </button>
+  </div>
+  </div>
+);}
+export default App;
+
+//App.Css
+.App_container{text-align: center; margin: 20px;}
+.App_value{font-size: 36px; color: #000000; text-align: center;}
+.App_button1{font-size: 35px; padding: 20px 40px; background-color:#008000; color: #fffff; border: groove;} 
+.App_button1{font-size: 35px; padding: 20px 40px; background-color:#ff0000; color: #fffff; border: groove;} 
+    
