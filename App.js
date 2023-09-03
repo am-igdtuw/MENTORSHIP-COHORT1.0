@@ -1,6 +1,7 @@
 import React from 'react';
 import Counter from './Counter';
 import ImageBox from './ImageBox';
+import Form from './form';
 import './App.css';
 
 
@@ -13,6 +14,10 @@ function App() {
 
     <div className="imageBox">
       <ImageBox />
+    </div>
+
+    <div className="form">
+      <Form />
     </div>
     </>
   );
