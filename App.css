@@ -1,0 +1,19 @@
+.App{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #7d6656;
+}
+.funtional{
+    display: flex;
+    background: rgb(245, 238, 238);
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+}
+.formdata{
+    display: flex;
+    justify-content: left;
+}
