@@ -1,0 +1,52 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import Button from './Button';
+import reportWebVitals from './reportWebVitals';
+import A from './A';
+
+
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+
+  <React.StrictMode>
+    
+ <A/>
+ <Button/>
+        
+
+  </React.StrictMode>
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
+
+
+
+//Button file(functional component)
+
+import React from 'react';
+import { useState } from 'react';
+function Button(){
+    const [count,setCount] = useState(0);
+
+      function increment(){
+       setCount(count + 1);
+      }
+      function decrement(){
+        setCount(count - 1);
+       }
+
+      return(
+        <>
+          <button onClick={increment} >increment by functional component count is {count}</button>
+                <button onClick={decrement}>decrement by functional component  count is {count}</button>
+        </>
+              
+      );
+}
+
+
+export default Button;
