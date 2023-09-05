@@ -5,15 +5,19 @@
 
 #Assignment 1.1
 
-
 https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/0ccbc828-c070-435e-8fbb-d1354f197042
-
 
 #Assignment 1.2
 
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/e1aaa131-98b5-49b4-a6de-846838e54c75
 
+#Assignment 2.1
 
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/d253380d-0acf-4562-a79b-d7fbb33d0f37
 
+#Assignment 2.2
+
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/47237419-8e96-4e49-813e-a4fe3d623bbe
 
 # MENTORSHIP-COHORT1.0
 A 2-month Zero to Advanced web3 cohort is being offered in association with Web3Samaj in the month of august, empowering 60+ students in the fields of web3 and blockchain technology. Throughout the course, participants will engage in theory sessions, stimulate web3-based ideation, and work on inspiring group projects. The mentorship concludes with certificates and NFT’s recognizing the dedication and skills of the participants. We look forward to the participants embarking on a journey that will undoubtedly shape their futures
