@@ -1,5 +1,18 @@
+#Assignment 0
+
 ![Screen Shot 2023-09-05 at 7 18 58 PM](https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/00a56a45-ba5c-47b8-8a81-f69dab7198cb)
 ![Screen Shot 2023-09-05 at 7 19 00 PM](https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/8b900bb9-085e-489f-8080-962ab9fc2b38)
+
+#Assignment 1.1
+
+
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/0ccbc828-c070-435e-8fbb-d1354f197042
+
+
+#Assignment 1.2
+
+
+
 
 
 # MENTORSHIP-COHORT1.0
