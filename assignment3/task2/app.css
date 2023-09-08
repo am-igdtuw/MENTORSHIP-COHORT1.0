@@ -1,0 +1,23 @@
+
+body {
+  font-family: 'Your New Font', sans-serif; 
+}
+
+h1, p {
+  color: #ff5733; 
+}
+
+.btn-success {
+  background-color: #33ff57; 
+  color: #fff; 
+}
+
+.btn-danger {
+  background-color: #ff3333;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #3377ff; 
+  color: #fff; 
+}
