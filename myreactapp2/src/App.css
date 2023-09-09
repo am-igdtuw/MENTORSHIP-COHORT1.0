@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.button1{
+  color:green;
+}
+.button2{
+  color:red;
+}
+.para{
+  text-align: center;
+}
+
+
