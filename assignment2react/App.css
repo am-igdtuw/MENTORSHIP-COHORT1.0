@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+form,
+.info {
+  background-color: rgb(89, 255, 5);
+  display: flex;
+  border: 2px solid rgb(37, 96, 38);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin: 2vh;
+  width: 60vh;
+  padding: 2vh;
+}
+form input {
+  width: 80%;
+  margin: 2vh;
+  height: 3.6vh;
+  background-color: hsl(0, 0%, 100%);
+
+  padding: 2px;
+}
+
+form button {
+  background-color: rgb(15, 70, 15);
+  color: white;
+}
+
+.info {
+}
