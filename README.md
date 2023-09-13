@@ -1,13 +1,14 @@
 # MENTORSHIP-COHORT1.0
 A 2-month Zero to Advanced web3 cohort is being offered in association with Web3Samaj in the month of august, empowering 60+ students in the fields of web3 and blockchain technology. Throughout the course, participants will engage in theory sessions, stimulate web3-based ideation, and work on inspiring group projects. The mentorship concludes with certificates and NFT’s recognizing the dedication and skills of the participants. We look forward to the participants embarking on a journey that will undoubtedly shape their futures
 
+**Here's my assignments output drive link: https://drive.google.com/drive/folders/1qhk9dlMh_vaLmAAD4SHidWkfIc4Bp_vu
 
 TIMELINE FOR COHORT
 
 |Module               |Task               |Deadline            |Progress Check        |
 |---------------------|-------------------|--------------------|----------------------|
-|Js Revision Classes  |[Js Assignment](https://docs.google.com/document/d/1JL7ImcyFBClmGZPSWtV-85Qi2DzTrLT-Mk1RfX_0eLc/edit)                         |12th Aug - 13th Aug | 14th Aug             |
-|---------------------|-------------------|--------------------|----------------------|
+|Js Revision Classes  |[Js Assignment](https://docs.google.com/document/d/1JL7ImcyFBClmGZPSWtV-85Qi2DzTrLT-Mk1RfX_0eLc/edit)                         |12th Aug - 13th Aug | 14th Aug             | 
+|---------------------|-------------------|--------------------|DONE|
 |  Introduction to web3 Session : 16th Aug                                            |
 | (Help students think of ideas and apps related to web3)                             |
 |---------------------|-------------------|--------------------|----------------------|
@@ -19,7 +20,7 @@ TIMELINE FOR COHORT
 |                     |                   |22nd Aug            | 23rd Aug             |
 |---------------------|-------------------|--------------------|----------------------|
 |                     |                   |24th Aug            | 25th Aug             |
-|---------------------|-------------------|--------------------|----------------------|
+|---------------------|-------------------|DONE|DONE|
 |                     |                   |26th Aug            |                      |
 |---------------------|-------------------|--------------------|----------------------|
 |                     |                   |27th Aug            | 28th Aug             |

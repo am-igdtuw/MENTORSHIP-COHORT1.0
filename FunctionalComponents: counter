@@ -1,0 +1,16 @@
+import React, { useState } from 'react';
+import './counter.css';
+
+function CounterFunctionalComponent() {
+  const [count, setCount] = useState(0);
+  return (
+    <div>
+      <h1>Counter: using Functional Component</h1>
+      <p>Current count is: {count}</p>
+      <button onClick={()=>setCount(count+1)}>Increase</button>
+      <button onClick={()=>setCount(count-1)}>Decrease</button>
+    </div>
+  );
+}
+
+export default CounterFunctionalComponent;
