@@ -1,5 +1,9 @@
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/sem2/Desktop/Screen%20Shot%202023-08-31%20at%2011.20.20%20PM.png?version%3D1693504251082)
+![Screen Shot 2023-08-31 at 11 20 20 PM](https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/610faf75-79ae-4c66-a438-81465619d3bc)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
