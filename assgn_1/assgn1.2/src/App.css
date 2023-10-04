@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.body{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  /* background-color: rgb(230, 216, 244); */
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+

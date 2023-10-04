@@ -1,0 +1,44 @@
+.post {
+    /* border: 3px solid #111010; */
+    margin: 16px;
+    padding: 16px;
+    border-radius: 10px;
+    /* background-color: rgb(152, 102, 165); */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .username {
+    font-weight: bold;
+    font-size:xx-large;
+    text-align: center;
+    color: rgb(47, 2, 79);
+  }
+  
+  img {
+    width: 100%;
+    max-width: 500px;
+    max-height: 150px;
+    margin-top: 16px;
+    align-items: center;
+  }
+  
+  .caption {
+    margin-top: 8px;
+    text-align: center;
+  }
+
+h2{
+  color: rgb(109, 17, 174);
+}
+
+p{
+  color: rgb(47, 2, 79);
+  /* font-weight: bolder; */
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+  color: rgb(47, 2, 79);
+  font-weight: bolder;
+}

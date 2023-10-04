@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+  background-color: rgb(230, 216, 244);
+}
+
+h1{
+  color: rgb(47, 2, 79);
+}
+
+h2{
+  color: rgb(109, 17, 174);
+}
+
+p{
+  color: rgb(47, 2, 79);
+  font-weight: bolder;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+  color: rgb(47, 2, 79);
+  font-weight: bolder;
+}
+
+.dividing-line {
+  border-top: 1px solid rgb(217, 200, 230);
+  margin: 20px 0;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

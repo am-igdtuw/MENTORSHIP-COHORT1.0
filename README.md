@@ -1,3 +1,24 @@
+#Assignment 0
+
+![Screen Shot 2023-09-05 at 7 18 58 PM](https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/00a56a45-ba5c-47b8-8a81-f69dab7198cb)
+![Screen Shot 2023-09-05 at 7 19 00 PM](https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/8b900bb9-085e-489f-8080-962ab9fc2b38)
+
+#Assignment 1.1
+
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/0ccbc828-c070-435e-8fbb-d1354f197042
+
+#Assignment 1.2
+
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/e1aaa131-98b5-49b4-a6de-846838e54c75
+
+#Assignment 2.1
+
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/d253380d-0acf-4562-a79b-d7fbb33d0f37
+
+#Assignment 2.2
+
+https://github.com/Violetcv/MENTORSHIP-COHORT1.0/assets/97514667/47237419-8e96-4e49-813e-a4fe3d623bbe
+
 # MENTORSHIP-COHORT1.0
 A 2-month Zero to Advanced web3 cohort is being offered in association with Web3Samaj in the month of august, empowering 60+ students in the fields of web3 and blockchain technology. Throughout the course, participants will engage in theory sessions, stimulate web3-based ideation, and work on inspiring group projects. The mentorship concludes with certificates and NFT’s recognizing the dedication and skills of the participants. We look forward to the participants embarking on a journey that will undoubtedly shape their futures
 
@@ -7,7 +28,7 @@ TIMELINE FOR COHORT
 |Module               |Task               |Deadline            |Progress Check        |
 |---------------------|-------------------|--------------------|----------------------|
 |Js Revision Classes  |[Js Assignment](https://docs.google.com/document/d/1JL7ImcyFBClmGZPSWtV-85Qi2DzTrLT-Mk1RfX_0eLc/edit)                         |12th Aug - 13th Aug | 14th Aug             |
-|---------------------|-------------------|--------------------|----------------------|
+|---------------------|-------------------|--------------------|---------Done---------|
 |  Introduction to web3 Session : 16th Aug                                            |
 | (Help students think of ideas and apps related to web3)                             |
 |---------------------|-------------------|--------------------|----------------------|
@@ -26,7 +47,7 @@ TIMELINE FOR COHORT
 |---------------------|-------------------|--------------------|----------------------|
 |                     |                   |29th Aug            |                      |
 |---------------------|-------------------|--------------------|----------------------|
-|                     |Doubt Session      |31st Aug            | 1st Sept             |
+|                     |Doubt Session      |31st Aug  assignment 2 submitted          | 1st Sept             |
 |---------------------|-------------------|--------------------|----------------------|
 |Backend dev Classes  |                   |2nd Sept - 10th Sept|                      |
 |---------------------|-------------------|--------------------|----------------------|
