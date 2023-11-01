@@ -1,6 +1,5 @@
 # Ethereum Developer Bootcamp
 # Alchemy University
-____
 ## Week 1
 **Blockchain cryptography** : 
 ### Day 1 : 1st November : 
