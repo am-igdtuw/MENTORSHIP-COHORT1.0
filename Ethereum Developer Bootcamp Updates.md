@@ -1,8 +1,8 @@
 # Ethereum Developer Bootcamp
 # Alchemy University
 ## Week 1
-**Blockchain cryptography** : 
-### Day 1 : 1st November : 
+### Blockchain cryptography : 
+#### Day 1 : 1st November : 
 1.The First Primitive 
   * Blockchain and Crypto : *Done*
   * Cryptographic hashes : *Done*
