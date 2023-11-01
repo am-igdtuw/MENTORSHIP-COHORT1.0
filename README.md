@@ -4,6 +4,10 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 ## Updates on the Project - EtherShare:
 https://github.com/gunjanvjangra/EtherShare
 
+## Updates on Ethereum Developers Bootcamp
+https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/blob/main/Ethereum%20Developer%20Bootcamp%20Updates.md
+
+
 # TIMELINE FOR COHORT
 
 |Module               |Task               |Deadline            |Progress Check        |
