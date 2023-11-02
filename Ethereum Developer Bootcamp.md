@@ -1,4 +1,4 @@
-Week1:Blockchain Cryptography
+Week1: Blockchain Cryptography
 Day1 
 The First Primitives Done
 i. Blockchain and Crypto
