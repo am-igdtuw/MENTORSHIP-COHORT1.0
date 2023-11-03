@@ -25,3 +25,16 @@
 ## Course Percentage Done: 
 ![image](https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/assets/124075942/cc257daa-e51d-4c31-9301-6742ab97abf9)
 
+#### Day 2 : 2nd November : 
+3. Proof of Work
+  * Mining & Proof-of-Work : *Done*
+  * Proof of Work Miner : *Done*
+  * Proof of Work : *Done*
+  * Further Study : *Done*
+
+**Screenshot**:
+![image](https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/assets/124075942/85f1870e-1b40-4405-9aed-d02426ab04d5)
+
+## Course Percentage Done:
+![image](https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/assets/124075942/db5dd926-5a16-46df-b3ed-5a9cc650b379)
+
