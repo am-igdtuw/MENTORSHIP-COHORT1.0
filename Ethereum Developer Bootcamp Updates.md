@@ -25,7 +25,7 @@
 ## Course Percentage Done: 
 ![image](https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/assets/124075942/cc257daa-e51d-4c31-9301-6742ab97abf9)
 
-#### Day 2 : 2nd November : 
+#### Day 3 : 3rd November : 
 3. Proof of Work
   * Mining & Proof-of-Work : *Done*
   * Proof of Work Miner : *Done*
@@ -37,4 +37,17 @@
 
 ## Course Percentage Done:
 ![image](https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/assets/124075942/db5dd926-5a16-46df-b3ed-5a9cc650b379)
+
+#### Day 4 : 4th November : 
+4. Blockchain Network
+  * Blockchain Structure : *Done*
+  * Blockchain Data Structure : *Done*
+  * Further Study : *Done*
+
+**Screenshot**:
+![image](https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/assets/124075942/2efdbe1f-5581-4996-a526-2c9e91950c41)
+
+## Course Percentage Done:
+![image](https://github.com/gunjanvjangra/Mentorship-Cohort-1.0/assets/124075942/965c2aea-d7f9-4a9c-a838-5d7938d4eabd)
+
 
