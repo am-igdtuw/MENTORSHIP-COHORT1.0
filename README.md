@@ -5,8 +5,8 @@ A 2-month Zero to Advanced web3 cohort is being offered in association with Web3
 TIMELINE FOR COHORT
 
 |Module               |Task               |Deadline            |Progress Check        |
-|---------------------|-------------------|--------------------|----------------------|
-|Js Revision Classes  |[Js Assignment](https://docs.google.com/document/d/1JL7ImcyFBClmGZPSWtV-85Qi2DzTrLT-Mk1RfX_0eLc/edit)                         |12th Aug - 13th Aug | 14th Aug             |
+|---------------------|-------------------|--------------------| -------------------- |
+|Js Revision Classes  |[Js Assignment](https://docs.google.com/document/d/1JL7ImcyFBClmGZPSWtV-85Qi2DzTrLT-Mk1RfX_0eLc/edit)                         |12th Aug - 13th Aug | 14th Aug<done>     |
 |---------------------|-------------------|--------------------|----------------------|
 |  Introduction to web3 Session : 16th Aug                                            |
 | (Help students think of ideas and apps related to web3)                             |
